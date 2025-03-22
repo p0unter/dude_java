@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"pounter.arrays","l":"ArraysDemo"},{"p":"pounter.hello","l":"HelloWorld"},{"p":"pounter.numbers","l":"NumberSystems"},{"p":"pounter.primitive","l":"PrimitiveTypes"},{"p":"pounter.refactoring","l":"RefactoringDemo"}];updateSearchResults();
