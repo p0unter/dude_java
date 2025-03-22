@@ -1,4 +1,4 @@
-![java](https://github.com/user-attachments/assets/b7fa71a3-0549-4d4f-ac7a-c4b633e6abe3)
+![java](https://github.com/user-attachments/assets/e82e2c62-a23e-4240-9267-b4997ff683a8)
 
 This repository contains various example projects written in Java. My goal is to share the
  algorithms, data structures, and other software concepts I have learned through practical
